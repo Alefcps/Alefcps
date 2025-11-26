@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alef Rodrigo 👋
 
 - 🔭 Hoje estou atuando como Líder de equipe
-- 🌱 Estudando as tecnologias que utilizo mais React, React native node js (Express), PostgreSQL entre outras coisas que surgem durante as necessidades!
+- 🌱 Atualmente atuando com React, React native node js (Express), PostgreSQL entre outras coisas que surgem durante as necessidades!
 - 😄 Pronouns: ele/dele
 
 
